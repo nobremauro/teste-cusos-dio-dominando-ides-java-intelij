@@ -10,10 +10,5 @@ public class Gato {
         this.cor = cor;
         this.idade = idade;
     }
-
-    public Gato() {
-    Gato gato = new Gato();
-        System.out.println(gato);
-    }
 }
 
